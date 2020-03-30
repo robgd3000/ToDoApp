@@ -1,4 +1,4 @@
-// CODE EXPLAINED channel
+
 
 // Select the Elements
 
@@ -7,7 +7,7 @@ const dateElement = document.getElementById("date");
 const list = document.getElementById("list");
 const input = document.getElementById("input");
 
-// Classes names
+// Class names
 
 const CHECK = "fa-check-circle";
 const UNCHECK = "fa-circle-thin";

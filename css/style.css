@@ -1,8 +1,8 @@
-/* ------------ youtube.com/CodeExplained ------------ */
+
 body{
     padding: 0;
     margin: 0;
-    background-image: url('../img/books.jpg');
+    background-image: url('../img/books.jpg');  /* Photo by Thomas Kelley on Unsplash */
     background-size: cover;
     background-repeat: repeat;
     /* background-color: rgba(0,0,0,0.1); */
@@ -22,7 +22,7 @@ body{
     width: 800px;
     height:250px;
     margin-top: 100px;
-    background-image: url('../img/tracks.jpg');
+    background-image: url('../img/tracks.jpg');  /* Photo by Ales Krivec on Unsplash */
     background-size: 800px 250px;
     background-repeat: no-repeat;
     border-radius: 15px 15px 0 0;
@@ -191,7 +191,7 @@ body{
 .header{
     width: 380px;
     height:200px;
-    background-image: url('../img/bookpages.jpg');
+    background-image: url('../img/bookpages.jpg');  /* Photo by Patrick Tomasso on Unsplash */
     background-size: 100% 200%;
     background-repeat: no-repeat;
     border-radius: 15px 15px 0 0;
