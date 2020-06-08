@@ -2,7 +2,7 @@
 body{
     padding: 0;
     margin: 0;
-    background-image: url('../img/books.jpg');  /* Photo by Thomas Kelley on Unsplash */
+    /*background-image: url('../img/books.jpg');  /* Photo by Thomas Kelley on Unsplash */
     background-size: cover;
     background-repeat: repeat;
     /* background-color: rgba(0,0,0,0.1); */
